@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/anjani/anaconda3/bin/python",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true
+}

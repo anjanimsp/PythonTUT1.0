@@ -1,0 +1,1 @@
+PHP is a server side script used for website creation
